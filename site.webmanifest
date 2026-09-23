@@ -1,0 +1,16 @@
+{
+  "name": "Осокорвет — ветеринарна допомога та грумінг",
+  "short_name": "Осокорвет",
+  "start_url": "./osokorvet-site.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#f8fafc",
+  "icons": [
+    {
+      "src": "./assets/osokorvet-logo.png?v=20260923-4",
+      "sizes": "985x888",
+      "type": "image/png"
+    }
+  ]
+}
